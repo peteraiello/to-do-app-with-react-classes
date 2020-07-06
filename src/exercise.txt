@@ -1,0 +1,11 @@
+ok we're going to make a shopping list
+you have an input and the text gets added to an unordered list of fruits
+
+
+1. Create a component of ShoppingListInput and a component for ShoppingListOutput
+2. The input is just an input. The output is an unordered list with one or two pieces of fruit (for now)
+3. Add a prop for an item of fruit ('bananna'). 
+4. Add a state for the item of fruit. Remember useState and setState
+5. Add an eventHandler to add an item of fruit to input
+6. Bind this as a new item to the ShoppingListOutput component
+7. Style as appropriate.
